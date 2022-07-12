@@ -23,4 +23,4 @@ function determineBtnClicked() {
     outputSpan.innerHTML = "NO TICKET";
   }
 }
-"you're a man"
+"you're a women"
