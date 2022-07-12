@@ -23,3 +23,4 @@ function determineBtnClicked() {
     outputSpan.innerHTML = "NO TICKET";
   }
 }
+"you're a man"
